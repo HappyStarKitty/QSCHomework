@@ -1,0 +1,6 @@
+# 地图参照杀戮尖塔
+# 尖塔分为四层，即塔底(bottom)、城市(city)、深处(depth)、终幕(finale)四部分
+# 尖塔默认层数
+number_of_floors: 4
+# 每层需经过的房间数
+rooms_per_floor: 10
