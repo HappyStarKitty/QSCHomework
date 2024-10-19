@@ -10,9 +10,11 @@
 创建新分支
 ![无法查看](figures/task2_1.png)
 让两个分支的文件产生矛盾并进行合并处理
+![无法查看](figures/task2_2.png)
 
 ## TASK 3
 查看历史提交
+![无法查看](figures/task3_1.png)
 并回溯到之前的某个状态
 
 ## Bonus
@@ -21,4 +23,6 @@
 尝试在GitHub上直接修改文件，并将文件拉取到本地
 ![无法查看](figures/bonus_2.png)
 
+## Test Content
+Hello World
 
