@@ -16,6 +16,7 @@
 查看历史提交
 ![无法查看](figures/task3_1.png)
 并回溯到之前的某个状态
+![无法查看](figures/task3_2.png)
 
 ## Bonus
 在GitHub建立仓库，并将本地仓库文件推送到GitHub上
@@ -23,6 +24,5 @@
 尝试在GitHub上直接修改文件，并将文件拉取到本地
 ![无法查看](figures/bonus_2.png)
 
-## Test Content
-Hello World
+
 
